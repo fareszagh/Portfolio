@@ -15,7 +15,6 @@ export const cvFiles = {
   en: './cv/Fares_Zaghdoudi_CV_EN.pdf',
   de: './cv/Fares_Zaghdoudi_CV_DE.pdf',
   fr: './cv/Fares_Zaghdoudi_CV_FR.pdf',
-  // No Italian / Spanish CV yet — those languages offer the English one.
-  it: './cv/Fares_Zaghdoudi_CV_EN.pdf',
-  es: './cv/Fares_Zaghdoudi_CV_EN.pdf',
+  it: './cv/Fares_Zaghdoudi_CV_IT.pdf',
+  es: './cv/Fares_Zaghdoudi_CV_ES.pdf',
 };
