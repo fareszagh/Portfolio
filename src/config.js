@@ -1,7 +1,7 @@
 // Personal links — fill these in. Links left empty are hidden on the site.
 export const profile = {
   name: 'Fares Zaghdoudi',
-  email: 'fz22211094@gmail.com',
+  email: 'zaghdoudifares3@gmail.com',
   phone: '', // e.g. '+49 152 24305406' — left empty so it isn't published on the web
   linkedin: '', // e.g. 'https://www.linkedin.com/in/your-handle'
   github: 'https://github.com/fareszagh',
