@@ -129,7 +129,7 @@ export const content = {
       title: 'Education',
       items: [
         { name: 'Full-Stack Development with AI Integration', school: 'RBK', status: 'Completed', done: true },
-        { name: 'Computer Science', school: 'University of Applied Sciences Emden/Leer, Germany', period: '2017 – 2022', status: 'Discontinued' },
+        { name: 'Computer Science', school: 'University of Applied Sciences Emden/Leer, Germany', period: '2017 – 2022', status: 'Paused' },
       ],
     },
     langs: {
@@ -269,7 +269,7 @@ export const content = {
       title: 'Ausbildung',
       items: [
         { name: 'Full-Stack-Entwicklung mit KI-Integration', school: 'RBK', status: 'Abgeschlossen', done: true },
-        { name: 'Informatik', school: 'Hochschule Emden/Leer, Deutschland', period: '2017 – 2022', status: 'Abgebrochen' },
+        { name: 'Informatik', school: 'Hochschule Emden/Leer, Deutschland', period: '2017 – 2022', status: 'Pausiert' },
       ],
     },
     langs: {
@@ -409,7 +409,7 @@ export const content = {
       title: 'Formation',
       items: [
         { name: 'Développement Full-Stack avec Intégration IA', school: 'RBK', status: 'Terminée', done: true },
-        { name: 'Informatique', school: 'Université des Sciences Appliquées d\'Emden/Leer, Allemagne', period: '2017 – 2022', status: 'Interrompues' },
+        { name: 'Informatique', school: 'Université des Sciences Appliquées d\'Emden/Leer, Allemagne', period: '2017 – 2022', status: 'En pause' },
       ],
     },
     langs: {
@@ -549,7 +549,7 @@ export const content = {
       title: 'Formazione',
       items: [
         { name: 'Sviluppo Full-Stack con integrazione IA', school: 'RBK', status: 'Completato', done: true },
-        { name: 'Informatica', school: 'Università di Scienze Applicate di Emden/Leer, Germania', period: '2017 – 2022', status: 'Interrotto' },
+        { name: 'Informatica', school: 'Università di Scienze Applicate di Emden/Leer, Germania', period: '2017 – 2022', status: 'In pausa' },
       ],
     },
     langs: {
@@ -689,7 +689,7 @@ export const content = {
       title: 'Formación',
       items: [
         { name: 'Desarrollo Full-Stack con integración de IA', school: 'RBK', status: 'Completado', done: true },
-        { name: 'Informática', school: 'Universidad de Ciencias Aplicadas de Emden/Leer, Alemania', period: '2017 – 2022', status: 'Interrumpido' },
+        { name: 'Informática', school: 'Universidad de Ciencias Aplicadas de Emden/Leer, Alemania', period: '2017 – 2022', status: 'En pausa' },
       ],
     },
     langs: {
