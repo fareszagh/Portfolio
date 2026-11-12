@@ -827,6 +827,7 @@ svg {
 .meter__fill--cyan { background: linear-gradient(90deg, var(--cyan), var(--green)); box-shadow: 0 0 10px rgba(34, 211, 238, 0.5); }
 .meter__fill--purple { background: linear-gradient(90deg, var(--purple), var(--cyan)); box-shadow: 0 0 10px rgba(167, 139, 250, 0.5); }
 .meter__fill--amber { background: linear-gradient(90deg, #d98a17, var(--amber)); box-shadow: 0 0 10px rgba(245, 177, 61, 0.45); }
+.meter__fill--green { background: linear-gradient(90deg, var(--green), var(--cyan)); box-shadow: 0 0 10px rgba(52, 211, 153, 0.45); }
 .meters__foot {
   display: flex;
   justify-content: space-between;

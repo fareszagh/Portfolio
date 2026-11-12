@@ -23,7 +23,7 @@ export const content = {
       stats: [
         { label: 'Location', value: 'Germany', tone: 'cyan' },
         { label: 'Stack', value: 'TS / Node / React', tone: 'purple' },
-        { label: 'Languages', value: 'FR · EN · DE', tone: 'green' },
+        { label: 'Languages', value: 'AR · FR · EN · DE', tone: 'green' },
       ],
       cv: 'Download CV',
     },
@@ -134,8 +134,9 @@ export const content = {
     },
     langs: {
       title: 'Language proficiency',
-      footnote: 'Working daily across three languages',
+      footnote: 'Working daily across four languages',
       items: [
+        { name: 'Arabic', code: 'AR', level: 'Native', pct: 100 },
         { name: 'French', code: 'FR', level: 'Working proficiency', pct: 70 },
         { name: 'English', code: 'EN', level: 'Fluent', pct: 100 },
         { name: 'German', code: 'DE', level: 'Fluent', pct: 100 },
@@ -163,7 +164,7 @@ export const content = {
       stats: [
         { label: 'Standort', value: 'Deutschland', tone: 'cyan' },
         { label: 'Stack', value: 'TS / Node / React', tone: 'purple' },
-        { label: 'Sprachen', value: 'FR · EN · DE', tone: 'green' },
+        { label: 'Sprachen', value: 'AR · FR · EN · DE', tone: 'green' },
       ],
       cv: 'Lebenslauf herunterladen',
     },
@@ -274,8 +275,9 @@ export const content = {
     },
     langs: {
       title: 'Sprachkenntnisse',
-      footnote: 'Täglich in drei Sprachen unterwegs',
+      footnote: 'Täglich in vier Sprachen unterwegs',
       items: [
+        { name: 'Arabisch', code: 'AR', level: 'Muttersprache', pct: 100 },
         { name: 'Französisch', code: 'FR', level: 'Gute Kenntnisse', pct: 70 },
         { name: 'Englisch', code: 'EN', level: 'Fließend', pct: 100 },
         { name: 'Deutsch', code: 'DE', level: 'Fließend', pct: 100 },
@@ -303,7 +305,7 @@ export const content = {
       stats: [
         { label: 'Localisation', value: 'Allemagne', tone: 'cyan' },
         { label: 'Stack', value: 'TS / Node / React', tone: 'purple' },
-        { label: 'Langues', value: 'FR · EN · DE', tone: 'green' },
+        { label: 'Langues', value: 'AR · FR · EN · DE', tone: 'green' },
       ],
       cv: 'Télécharger le CV',
     },
@@ -414,8 +416,9 @@ export const content = {
     },
     langs: {
       title: 'Niveau de langues',
-      footnote: 'Trois langues au quotidien',
+      footnote: 'Quatre langues au quotidien',
       items: [
+        { name: 'Arabe', code: 'AR', level: 'Langue maternelle', pct: 100 },
         { name: 'Français', code: 'FR', level: 'Niveau professionnel', pct: 70 },
         { name: 'Anglais', code: 'EN', level: 'Courant', pct: 100 },
         { name: 'Allemand', code: 'DE', level: 'Courant', pct: 100 },
@@ -443,7 +446,7 @@ export const content = {
       stats: [
         { label: 'Sede', value: 'Germania', tone: 'cyan' },
         { label: 'Stack', value: 'TS / Node / React', tone: 'purple' },
-        { label: 'Lingue', value: 'FR · EN · DE', tone: 'green' },
+        { label: 'Lingue', value: 'AR · FR · EN · DE', tone: 'green' },
       ],
       cv: 'Scarica CV',
     },
@@ -554,8 +557,9 @@ export const content = {
     },
     langs: {
       title: 'Competenze linguistiche',
-      footnote: 'Lavoro ogni giorno in tre lingue',
+      footnote: 'Lavoro ogni giorno in quattro lingue',
       items: [
+        { name: 'Arabo', code: 'AR', level: 'Madrelingua', pct: 100 },
         { name: 'Francese', code: 'FR', level: 'Buona conoscenza professionale', pct: 70 },
         { name: 'Inglese', code: 'EN', level: 'Fluente', pct: 100 },
         { name: 'Tedesco', code: 'DE', level: 'Fluente', pct: 100 },
@@ -583,7 +587,7 @@ export const content = {
       stats: [
         { label: 'Ubicación', value: 'Alemania', tone: 'cyan' },
         { label: 'Stack', value: 'TS / Node / React', tone: 'purple' },
-        { label: 'Idiomas', value: 'FR · EN · DE', tone: 'green' },
+        { label: 'Idiomas', value: 'AR · FR · EN · DE', tone: 'green' },
       ],
       cv: 'Descargar CV',
     },
@@ -694,8 +698,9 @@ export const content = {
     },
     langs: {
       title: 'Nivel de idiomas',
-      footnote: 'Trabajo a diario en tres idiomas',
+      footnote: 'Trabajo a diario en cuatro idiomas',
       items: [
+        { name: 'Árabe', code: 'AR', level: 'Lengua materna', pct: 100 },
         { name: 'Francés', code: 'FR', level: 'Nivel profesional', pct: 70 },
         { name: 'Inglés', code: 'EN', level: 'Fluido', pct: 100 },
         { name: 'Alemán', code: 'DE', level: 'Fluido', pct: 100 },

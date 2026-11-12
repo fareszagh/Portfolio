@@ -1,7 +1,7 @@
 import Panel from './Panel.jsx';
 import { GlobeIcon } from './Icons.jsx';
 
-const tones = ['cyan', 'purple', 'amber'];
+const tones = ['green', 'cyan', 'purple', 'amber'];
 
 export default function Languages({ t }) {
   const l = t.langs;
@@ -24,7 +24,7 @@ export default function Languages({ t }) {
       </div>
       <div className="meters__foot">
         <span className="c-muted">{l.footnote}</span>
-        <span className="c-cyan">FR · EN · DE</span>
+        <span className="c-cyan">{l.items.map((item) => item.code).join(' · ')}</span>
       </div>
     </Panel>
   );
